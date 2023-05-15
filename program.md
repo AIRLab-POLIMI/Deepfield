@@ -2,6 +2,20 @@
 layout: default
 ---
 
-The workshop will take place on September 4, 2023 (full day).
+**Keynotes**:
 
-Program to be announced. 
+* Antonio Sgorbissa, Università di Genova, keynote on search and rescue with legged robots - Title TBD
+
+* Speaker TBD, INESC TEC, Topic and title TBD
+
+
+Special session on **“Mobile Robotics from labs to field: current state and future challenges”**.
+Expert panel:
+
+* Matteo Matteucci (moderator), Politecnico di Milano
+* Antonio Sgorbissa, Università di Genova
+* Speaker TBD, INESC TEC
+* Representatives of industry working in extreme conditions (e.g, underwater, underground facilities, etc). 
+ 
+
+Detailed program to be announced. 

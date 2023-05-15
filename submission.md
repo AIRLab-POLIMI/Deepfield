@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Submission details
+**Submission details**
 Submissions can fall in one of the following categories:
 * Full research papers (6 pages including references)
 * Short research papers (3 pages including references)
