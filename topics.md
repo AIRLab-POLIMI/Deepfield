@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Topics of interest
 * Field robotics 
 * Extreme robotics
