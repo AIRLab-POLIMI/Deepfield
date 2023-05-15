@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Autonomous Robots are expected to carry out tasks that are inconvenient or unsafe for humans, such as inspecting critical infrastructure or exploring hostile environments. Prominent examples of such tasks include underwater and space exploration, nuclear decommissioning, underground tunnel inspection, and search and rescue operations. To deploy robots effectively in real-world environments, many challenges have to be addressed that concern the robots’ sensemaking, planning, decision-making and deliberation capabilities.  
 
 Real-world operational scenarios are often characterised by high levels of uncertainty and frequent changes. Limited sensor availability and increased risk of system failures are common issues in challenging operational settings. In particularly extreme scenarios, robots are expected to complete their tasks before their hardware is compromised, e.g., due to radiation or other hostile environmental conditions. The fact that field robots often need to operate autonomously for extended periods further exacerbates these challenges. 
