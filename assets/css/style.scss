@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 .page-header {
- background-image: url('../images/banner.png') 
+ background-image: url('../images/banner.png'), 
 }
 
 .btn {
-color: #555555
-background-color: #eff0f1
+color: #555555;
+background-color: #eff0f1;
 }
