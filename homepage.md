@@ -9,7 +9,7 @@ As a result, current systems are either overly specialised for particular tasks,
 
 The objective of this workshop is twofold. Firstly, it aims to encourage research that showcases the deployment of autonomous robots in unconstrained real-world environments. Secondly, it aims to promote the proposal of novel benchmarks for validating the actual capabilities of these systems in the field. This workshop will bring together experts from a range of disciplines within Robotics and Artificial Intelligence, to discuss the latest research and technological developments in autonomous field robotics.
 
-**Topics of interest** include, but are not limited to:
+We welcome contributions focusing on the following research areas:
 
 **Navigation and mapping**, comprising algorithms for mapping and localization, path planning, and obstacle avoidance for navigation. Particular emphasis will be given to works tackling long-term autonomy and navigation in uncontrolled environments, under unpredictable and possibly changing working conditions.
 
