@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# Submission details
+## Submission details

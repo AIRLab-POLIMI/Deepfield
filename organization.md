@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Organizing Committee 
+## Organizing Committee 
 
 Gianluca Bardaro, Artificial Intelligence and Robotics Lab (AIRLab), Department of Electronics, Information and Bioengineering, Politecnico di Milano, Italy
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Topics of interest
+## Topics of interest
 * Field robotics 
 * Extreme robotics
 * Autonomous navigation
