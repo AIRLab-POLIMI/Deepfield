@@ -6,7 +6,7 @@ layout: default
 
 * Antonio Sgorbissa, Università di Genova, keynote on search and rescue with legged robots - Title TBD
 
-* Speaker TBD, INESC TEC, Topic and title TBD
+* Hugo Miguel Silva, INESC TEC, Keynot on underwater robotics - Title TBD
 
 
 Special session on **“Mobile Robotics from labs to field: current state and future challenges”**.
