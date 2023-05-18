@@ -14,7 +14,7 @@ Expert panel:
 
 * Matteo Matteucci (moderator), Politecnico di Milano
 * Antonio Sgorbissa, Università di Genova
-* Hugo Miguel Silva, INESC TEC
+* Carlos Almeida, INESC TEC
 * Representatives of industry working in extreme conditions (e.g, underwater, underground facilities, etc). 
  
 
