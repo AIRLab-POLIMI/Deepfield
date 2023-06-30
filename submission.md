@@ -14,4 +14,4 @@ All submissions must be formatted in A4, two-column IEEE style, in accordance wi
 We will also arrange for all remaining accepted papers to be published in the [CEUR workshop proceedings series](https://ceur-ws.org/index.html).  
 
 
-Submit your paper via [Easychair](https://easychair.org/conferences/submission_new?a=30917679#{fr:qnbHLvzdJf0d}).  
+Submit your paper via [Easychair](https://easychair.org/conferences/submission_track?track=305510&a=31269636).  
