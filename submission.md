@@ -6,7 +6,7 @@ layout: default
 Submissions can fall in one of the following categories:
 * Research papers (4 pages including references)
 * Short papers (2 pages including references)
-* Posters (with 1-page abstract)
+* Posters (with 1-page abstract excluding references)
 
 All submissions must be formatted in A4, two-column IEEE style, in accordance with the [ECMR 2023 submission guidelines](https://ecmr2023.isr.uc.pt/paper-preparation-guidelines/).
 
