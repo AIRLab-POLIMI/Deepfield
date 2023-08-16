@@ -2,20 +2,18 @@
 layout: default
 ---
 
-**Keynotes**:
+**Workshop program**:
 
-* Antonio Sgorbissa, Università di Genova, keynote on search and rescue with legged robots - Title TBD
+| 14:00 - 14:15 | Opening and Introduction                                                           |                                                                         |
+| 14:15 - 14:55 | Keynote                                                                            | Carlos Almeida                                                          |
+| 14:55 - 15:05 | Keynote Q&A                                                                        |                                                                         |
+| 15:15 - 15:30 | UAV AI-based Visual Detection for Remote Archaeological Heritage Site Surveillance | Bernardo Teixeira, André Moura, José Antunes, André Dias and Hugo Silva |
+| 15:30 - 15:45 | Design and development of a skid-steering robot for agricultural environment       | Simone Mentasti, Paolo Cudrano, Matteo Zinzani and Matteo Matteucci     |
+| 15:45 - 15:55 | Development of an autonomous navigation system for automatic industrial inspection | Leonardo Gargani and Gianluca Bardaro                                   |
+| 15:55 - 16:05 | Simultaneous localization and mapping of crops for field monitoring                | Paolo Cudrano, Simone Mentasti, Erica Ceriotti and Matteo Matteucci     |
+|  16:05 -16:15 | Autonomous Interaction of Mobile Manipulators in Industrial Environments           | Lorenzo Poretti and Gianluca Bardaro                                    |
+| 16:30 - 16:50 | coffee break                                                                       |                                                                         |
+| 16:50 - 17:50 | Real world robotics @ AIRLab                                                       | Gianluca Bardaro, Agnese Chiatti                                        |
+| 17:50 - 18:00 | Q&A                                                                                |                                                                         |
+| 18:00 - 18:30 | Closing Remarks and Future of the DEEPFIELD Workshop                               |                                                                         |
 
-* Carlos Almeida, INESC TEC, “Robotics for extreme environments”
-
-
-Special session on **“Mobile Robotics from labs to field: current state and future challenges”**.
-Expert panel:
-
-* Matteo Matteucci (moderator), Politecnico di Milano
-* Antonio Sgorbissa, Università di Genova
-* Carlos Almeida, INESC TEC
-* Representatives of industry working in extreme conditions (e.g, underwater, underground facilities, etc). 
- 
-
-Detailed program to be announced. 
