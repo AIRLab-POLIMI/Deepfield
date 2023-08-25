@@ -12,7 +12,7 @@ layout: default
 | 16:00 - 16:10 | Simultaneous localization and mapping of crops for field monitoring                | Paolo Cudrano, Simone Mentasti, Erica Ceriotti and Matteo Matteucci     |
 | 16:15 - 16:25 | Autonomous Interaction of Mobile Manipulators in Industrial Environments           | Lorenzo Poretti and Gianluca Bardaro                                    |
 | 16:30 - 16:50 | coffee break                                                                       |                                                                         |
-| 16:50 - 17:50 | Real world robotics @ AIRLab                                                       | Gianluca Bardaro, Agnese Chiatti, Simone Mentasti, Riccardo Bertoglio   |
+| 16:50 - 17:40 | A Few Robotic Things That Emergency First Responders May Like (or Not)             | Antonio Sgorbissa                                                       |
 | 17:50 - 18:00 | Q&A                                                                                |                                                                         |
 | 18:00 - 18:30 | Closing Remarks and Future of the DEEPFIELD Workshop                               |                                                                         |
 
