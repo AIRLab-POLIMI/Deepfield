@@ -5,8 +5,8 @@ layout: default
 **Workshop program**:
 
 | 14:00 - 14:10 | Opening and Introduction                                                           |                                                                         |
-| 14:10 - 15:00 | Robotics for extreme underwater environmentss                                      | Carlos Almeida                                                          |
-| 15:05 - 15:20 | UAV AI-based Visual Detection for Remote Archaeological Heritage Site Surveillance | Bernardo Teixeira, André Moura, José Antunes, André Dias and Hugo Silva |
+| 14:10 - 15:00 | Robotics for extreme underwater environments                                      | Carlos Almeida                                                          |
+| 15:05 - 15:20 | <a href=''>UAV AI-based Visual Detection for Remote Archaeological Heritage Site Surveillance<\a> | Bernardo Teixeira, André Moura, José Antunes, André Dias and Hugo Silva |
 | 15:25 - 15:40 | Design and development of a skid-steering robot for agricultural environment       | Simone Mentasti, Paolo Cudrano, Matteo Zinzani and Matteo Matteucci     |
 | 15:45 - 15:55 | Development of an autonomous navigation system for automatic industrial inspection | Leonardo Gargani and Gianluca Bardaro                                   |
 | 16:00 - 16:10 | Simultaneous localization and mapping of crops for field monitoring                | Paolo Cudrano, Simone Mentasti, Erica Ceriotti and Matteo Matteucci     |
